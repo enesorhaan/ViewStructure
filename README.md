@@ -1,1 +1,3 @@
 # ViewStructure
+
+Using Mvc Layout
